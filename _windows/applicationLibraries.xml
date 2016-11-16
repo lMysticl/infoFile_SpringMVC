@@ -1,0 +1,518 @@
+<application>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://A:/Java/gwt-2.8.0-rc3" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+      <gwt-sdk url="file://$MAVEN_REPOSITORY$/com/google/gwt/gwt-dev/2.7.0" />
+    </gwt-sdk-list>
+  </component>
+  <component name="libraryTable">
+    <library name="amcharts" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.amcharts.com_lib_3_amcharts.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.amcharts.com_lib_3_amcharts.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Android_sdk">
+      <CLASSES>
+        <root url="file://A:/Java/Android/SDK/Android_sdk" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="file://A:/Java/Android/SDK/Android_sdk/add-ons/addon-google_apis-google-19/docs/effects_apis" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/add-ons/addon-google_apis-google-19/docs/maps_apis" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/add-ons/addon-google_apis-google-21/docs/effects_apis" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/add-ons/addon-google_apis-google-21/docs/maps_apis" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/add-ons/addon-google_apis-google-22/docs/effects_apis" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/add-ons/addon-google_apis-google-22/docs/maps_apis" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/add-ons/addon-google_apis-google-23/docs/effects_apis" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/add-ons/addon-google_apis-google-23/docs/maps_apis" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/admob_ads_sdk/docs" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/docs/javadoc" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/samples/Support13Demos/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/samples/Support4Demos/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/samples/Support7Demos/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/samples/SupportAppNavigation/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v13/src/api23" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v13/src/ics" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v13/src/ics-mr1" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v13/src/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/api20" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/api21" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/api22" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/api23" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/donut" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/eclair" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/eclair-mr1" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/froyo" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/gingerbread" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/honeycomb" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/honeycomb_mr1" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/honeycomb_mr2" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/ics" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/ics-mr1" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/jellybean" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/jellybean-mr1" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/jellybean-mr2" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/kitkat" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/android/support/v4/src/tests/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/gcm/gcm-client/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/gcm/gcm-server/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/gcm/gcm-server/test" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/gcm/samples/gcm-demo-appengine/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/gcm/samples/gcm-demo-client/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/gcm/samples/gcm-demo-server/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/analytics/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/auth/gau/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/auth/suw/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/cast/democastplayer/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/cast/tictactoe/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/drive/conflictdemo/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/drive/demos/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/drive/playground/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/drive/quickeditor/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/maps/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/panorama/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/tagmanager/cuteanimals/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/tagmanager/helloworld/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/unified/ActivityDemo/app/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services/samples/wallet/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services_froyo/libproject/google-play-services_lib/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services_froyo/samples/auth/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services_froyo/samples/maps/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services_froyo/samples/panorama/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/google_play_services_froyo/samples/plus/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/market_apk_expansion/downloader_library/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/market_apk_expansion/downloader_sample/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/market_apk_expansion/zip_file/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/market_licensing/library/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/market_licensing/sample/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/market_licensing/test/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/play_billing/samples/TrivialDrive/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/webdriver/SimpleApp/gen" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/webdriver/SimpleApp/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/webdriver/TestAnAndroidWebApp/gen" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/extras/google/webdriver/TestAnAndroidWebApp/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/antlr/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/application/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/buildDashboard/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/clientModuleDependencies/shared/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/codeQuality/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/ear/earCustomized/war/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/ear/earWithWar/war/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/groovy/mixedJavaAndGroovy/src/main/groovy" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/groovy/mixedJavaAndGroovy/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/groovy/multiproject/groovycDetector/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/groovy/multiproject/testproject/src/main/groovy" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/groovy/multiproject/testproject/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/groovy/multiproject/testproject/src/test/groovy" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/groovy/multiproject/testproject/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/ivypublish/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/ivypublish/subproject/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/javaGradlePlugin/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/apiAndImpl/src/api/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/apiAndImpl/src/impl/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/apiAndImpl/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/base/prod/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/base/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/customizedLayout/src/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/customizedLayout/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/multiproject/api/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/multiproject/buildSrc/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/multiproject/buildSrc/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/multiproject/services/shared/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/multiproject/services/webservice/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/multiproject/services/webservice/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/multiproject/shared/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/multiproject/shared/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/onlyif/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/onlyif/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/quickstart/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/quickstart/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/testListener/src/test/java/org/gradle" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/withIntegrationTests/src/integration-test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/withIntegrationTests/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/java/withIntegrationTests/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/maven-publish/javaProject/subproject/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/maven-publish/quickstart/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/maven/pomGeneration/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/maven/quickstart/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/plugin-dsl/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/scala/mixedJavaAndScala/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/scala/mixedJavaAndScala/src/main/scala" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/signing/conditional/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/signing/maven/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/sonarRunner/advanced/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/sonarRunner/advanced/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/sonarRunner/quickstart/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/sonarRunner/quickstart/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/sonar/quickstart/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/sonar/quickstart/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/filtering/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/jacoco/application/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/jacoco/quickstart/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/jacoco/quickstart/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/junit/categories/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/testReport/core/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/testReport/util/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/testng/groups/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/testng/java-jdk14-passing/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/testng/java-jdk14-passing/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/testng/java-jdk15-passing/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/testng/java-jdk15-passing/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/testng/suitexmlbuilder/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/testing/testng/suitexmlbuilder/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/toolingApi/customModel/plugin/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/toolingApi/customModel/tooling/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/toolingApi/eclipse/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/toolingApi/idea/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/toolingApi/model/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/toolingApi/runBuild/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/ant/useExternalAntTaskWithConfig/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/java/sourceSets/src/intTest/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/javaWithCustomConf/api/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/javaWithCustomConf/shared/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/java/api/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/java/api/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/java/services/personService/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/java/services/personService/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/java/shared/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/java/shared/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/webDist/date/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/userguide/multiproject/dependencies/webDist/hello/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/webApplication/customized/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/webApplication/customized/src/test/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/samples/webApplication/quickstart/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/announce" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/antlr" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/base-services" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/base-services-groovy" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/build-comparison" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/build-init" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/cli" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/code-quality" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/core" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/cunit" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/dependency-management" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/diagnostics" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/ear" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/ide" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/ide-native" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/internal-integ-testing" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/internal-testing" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/ivy" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/ivy/org/gradle/api/publish/ivy/plugins" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/ivy/org/gradle/api/publish/ivy/tasks" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/jacoco" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/javascript" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/jetty" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/language-groovy" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/language-java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/language-jvm" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/language-native" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/launcher" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/maven" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/messaging" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/model-core" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/model-groovy" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/native" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/open-api" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/osgi" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/platform-base" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/platform-jvm" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/platform-native" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/plugin-development" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/plugin-use" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/plugins" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/publish" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/publish/org/gradle/api/publish/plugins" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/reporting" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/resources" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/resources-http" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/scala" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/sonar" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/tooling-api" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/ui" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/gradle-2.2.1/src/wrapper" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/samples/HelloWorld/javafx/src/main/java" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/sources/android-19" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/sources/android-21" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/sources/android-22" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/sources/android-23" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/tools/apps/SdkController/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/tools/proguard/examples/annotations/examples" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk/tools/proguard/examples/annotations/src" />
+        <root url="file://A:/Java/Android/SDK/Android_sdk" />
+      </SOURCES>
+      <jarDirectory url="file://A:/Java/Android/SDK/Android_sdk" recursive="false" type="SOURCES" />
+    </library>
+    <library name="angularjs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-component-router.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-mocks.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-cookies.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-animate.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-sanitize.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-resource.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-route.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-component-router.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-mocks.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-cookies.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-animate.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-sanitize.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-resource.d.ts" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_angularjs_angular-route.d.ts" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jdk1.8">
+      <CLASSES>
+        <root url="file://A:/Java/jdk1.8.0_91" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://A:/Java/jdk1.8.0_91" />
+      </SOURCES>
+      <jarDirectory url="file://A:/Java/jdk1.8.0_91" recursive="false" type="SOURCES" />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1.11.1_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.1.1_jquery.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__ajax.googleapis.com_ajax_libs_jquery_1.11.1_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jQuery UI-1.10.2" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.10.2_jquery-ui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.10.2_jquery-ui.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jQuery-2.0.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery-ajax-chain-DefinitelyTyped" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jquery-ajax-chain_jquery-ajax-chain.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jquery-ajax-chain_jquery-ajax-chain.d.ts" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jquery-DefinitelyTyped" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Knockout-2.2.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Knockout" />
+        <option name="frameworkVersion" value="2.2.1" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_knockout_knockout-2.2.1.debug.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.aspnetcdn.com_ajax_knockout_knockout-2.2.1.debug.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="light" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.amcharts.com_lib_3_themes_light.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.amcharts.com_lib_3_themes_light.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Node.js" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Node.js Core Modules" />
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="https://github.com/danielbryantuk/node-chat-experiment" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Prototype-1.7.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Prototype" />
+        <option name="frameworkVersion" value="1.7.1" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_prototype_1.7.1_prototype.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_prototype_1.7.1_prototype.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.prototypejs.org" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="script.aculo.us-1.9.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="script.aculo.us" />
+        <option name="frameworkVersion" value="1.9.0" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_scriptaculous_1.9.0_scriptaculous.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_scriptaculous_1.9.0_scriptaculous.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://madrobby.github.com/scriptaculous" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="serial" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.amcharts.com_lib_3_serial.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.amcharts.com_lib_3_serial.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

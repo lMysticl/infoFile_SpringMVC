@@ -1,0 +1,20 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Runner" type="PLAIN_TEXT" />
+      <mapping ext="properties_ru" type="PLAIN_TEXT" />
+      <mapping pattern="Selector" type="XML" />
+      <mapping pattern="*.log.lck" type="YouTrack" />
+    </extensionMap>
+  </component>
+</application>
