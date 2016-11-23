@@ -9,10 +9,6 @@
       <display-name>AppController (com.yesikov.springmvc.controller)</display-name>
       <place disabled="true"><![CDATA[psiMethod().withName("getFilesList").withParameters("org.springframework.ui.ModelMap").definedInClass("com.yesikov.springmvc.controller.AppController")]]></place>
     </injection>
-    <injection language="JAVA" injector-id="java">
-      <display-name>PrintStream.println (java.io)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("println").withParameters("java.lang.String").definedInClass("java.io.PrintStream"))]]></place>
-    </injection>
     <injection language="AIDL" injector-id="xml">
       <display-name>LinearLayout/@context</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("context")).withNamespace(string().equalTo("http://schemas.android.com/tools")).withParent(xmlTag().withLocalName(string().equalTo("LinearLayout")))]]></place>
