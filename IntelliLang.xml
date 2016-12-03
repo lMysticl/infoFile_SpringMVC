@@ -19,6 +19,10 @@
       <display-name>EntityManager.createNativeQuery (javax.persistence)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
     </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>String.format (java.lang)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("format").withParameters("java.lang.String", "java.lang.Object...").definedInClass("java.lang.String"))]]></place>
+    </injection>
     <injection language="AIDL" injector-id="xml">
       <display-name>LinearLayout/@context</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("context")).withNamespace(string().equalTo("http://schemas.android.com/tools")).withParent(xmlTag().withLocalName(string().equalTo("LinearLayout")))]]></place>
