@@ -7,42 +7,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2187409e-df40-4d28-bc8b-ff5ce1e721eb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/infoFile_SpringMVC.iml" afterPath="$PROJECT_DIR$/infoFile_SpringMVC.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/IntelliLang.xml" afterPath="$PROJECT_DIR$/staff/IntelliLang.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/actionscript_profile_settings.xml" afterPath="$PROJECT_DIR$/staff/actionscript_profile_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/androidEditors.xml" afterPath="$PROJECT_DIR$/staff/androidEditors.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/colors.scheme.xml" afterPath="$PROJECT_DIR$/staff/colors.scheme.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/databaseDrivers.xml" afterPath="$PROJECT_DIR$/staff/databaseDrivers.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/databaseSettings.xml" afterPath="$PROJECT_DIR$/staff/databaseSettings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/dbnavigator.xml" afterPath="$PROJECT_DIR$/staff/dbnavigator.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/debugger.renderers.xml" afterPath="$PROJECT_DIR$/staff/debugger.renderers.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/debugger.xml" afterPath="$PROJECT_DIR$/staff/debugger.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/diff.xml" afterPath="$PROJECT_DIR$/staff/diff.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/editor.codeinsight.xml" afterPath="$PROJECT_DIR$/staff/editor.codeinsight.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/editor.xml" afterPath="$PROJECT_DIR$/staff/editor.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/equalsHashCodeTemplates.xml" afterPath="$PROJECT_DIR$/staff/equalsHashCodeTemplates.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/filetypes.xml" afterPath="$PROJECT_DIR$/staff/filetypes.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/find.xml" afterPath="$PROJECT_DIR$/staff/find.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/github_settings.xml" afterPath="$PROJECT_DIR$/staff/github_settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gradle.run.settings.xml" afterPath="$PROJECT_DIR$/staff/gradle.run.settings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ide.general.xml" afterPath="$PROJECT_DIR$/staff/ide.general.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ignore.xml" afterPath="$PROJECT_DIR$/staff/ignore.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javaeeExternalResources.xml" afterPath="$PROJECT_DIR$/staff/javaeeExternalResources.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jboss.extensions.xml" afterPath="$PROJECT_DIR$/staff/jboss.extensions.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jdk.table.xml" afterPath="$PROJECT_DIR$/staff/jdk.table.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/jformdesigner.state.xml" afterPath="$PROJECT_DIR$/staff/jformdesigner.state.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/markdown_navigator.shared.xml" afterPath="$PROJECT_DIR$/staff/markdown_navigator.shared.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mavenVersion.xml" afterPath="$PROJECT_DIR$/staff/mavenVersion.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/multimarkdown.shared.xml" afterPath="$PROJECT_DIR$/staff/multimarkdown.shared.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/notifications.xml" afterPath="$PROJECT_DIR$/staff/notifications.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/plugin_ui.xml" afterPath="$PROJECT_DIR$/staff/plugin_ui.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/project.default.xml" afterPath="$PROJECT_DIR$/staff/project.default.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/smartereditor.xml" afterPath="$PROJECT_DIR$/staff/smartereditor.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/toStringTemplates.xml" afterPath="$PROJECT_DIR$/staff/toStringTemplates.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ui.lnf.xml" afterPath="$PROJECT_DIR$/staff/ui.lnf.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/vcs.xml" afterPath="$PROJECT_DIR$/staff/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web-browsers.xml" afterPath="$PROJECT_DIR$/staff/web-browsers.xml" />
     </list>
     <ignored path="SpringMVC_StatisticsByFiles-master.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,8 +49,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="102">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -929,7 +893,7 @@
       <workItem from="1480724728109" duration="3412000" />
       <workItem from="1480770184841" duration="601000" />
       <workItem from="1480775909544" duration="6100000" />
-      <workItem from="1480909573482" duration="84000" />
+      <workItem from="1480909573482" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1479187244820</created>
@@ -952,11 +916,18 @@
       <option name="project" value="LOCAL" />
       <updated>1479187631134</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1480909679502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1480909679502</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88974000" />
+    <option name="totallyTimeSpent" value="89025000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1390,8 +1361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding />
         </state>
       </provider>
