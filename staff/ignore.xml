@@ -22,6 +22,14 @@
       <language id="StyleLint" NEW_FILE="true" ENABLE="false" />
       <language id="Team Foundation" NEW_FILE="true" ENABLE="true" />
     </languages>
-    <userTemplates />
+    <userTemplates>
+      <template name="Example user template">### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen</template>
+    </userTemplates>
   </component>
 </application>

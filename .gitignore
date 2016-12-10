@@ -4,7 +4,12 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+staff
+_windows
+fileTemplates
+inspection
+logsupport
+target
 # Package Files #
 *.jar
 *.war

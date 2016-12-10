@@ -3,7 +3,6 @@
     <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/2889bd79_svg11.dtd" />
     <resource url="urn:with:com.epsm.gwtHibernateHello.client.page.Resources" location="urn:with:com.epsm.gwtHibernateHello.client.page.Resources" />
     <ignored-resource url="http://jakarta.apache.org/log4j/" />
-    <ignored-resource url="http://www.springframework.org/schema/p" />
     <ignored-resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" />
   </component>
 </application>

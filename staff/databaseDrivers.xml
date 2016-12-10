@@ -1,11 +1,6 @@
 <application>
-  <component name="LocalDatabaseDriverManager" version="163">
-    <driver id="com.mysql.cj.jdbc.Driver" name="com.mysql.cj.jdbc.Driver" driver-class="com.mysql.cj.jdbc.Driver">
-      <option name="auto-commit" value="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
+  <component name="LocalDatabaseDriverManager" version="141+">
     <driver id="h2.unified" name="H2" dialect="H2">
-      <artifact name="H2" use="true" />
       <option name="auto-sync" value="true" />
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/h2-license.txt</url>
@@ -15,57 +10,57 @@
       </library>
     </driver>
     <driver id="oracle" name="Oracle" dialect="Oracle">
-      <artifact name="Oracle" use="true" />
-      <option name="auto-sync" value="true" />
+      <option name="auto-sync" value="false" />
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
-      <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
-      <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+      </library>
     </driver>
     <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
-      <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
-      <artifact name="Xerial SQLiteJDBC" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
-      <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
+      </library>
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
-      <artifact name="DB2" use="true" />
       <option name="auto-sync" value="false" />
       <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
     </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
-      <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
-      <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
       <property name="prompt" value="false" />
     </driver>
     <driver id="mysql" name="MySQL" dialect="MySQL">
-      <artifact name="MySQL Connector/J" use="true" version="5.1.35" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <property name="autoReconnect" value="true" />
@@ -74,10 +69,34 @@
       <property name="characterEncoding" value="utf8" />
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
     </driver>
     <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
-      <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
+      </library>
+    </driver>
+    <driver id="da203082-0d22-4fbf-b982-a411d82de0dd" name="hibernate.cfg.xml/Hibernate driver" dialect="H2" driver-class="org.h2.Driver" icon="AllIcons.Providers.H2">
+      <artifact name="H2" />
+      <url-template name="Remote" template="jdbc:h2:tcp://{host::localhost}[:{port::9092}]/{database::default}[;&lt;;,user={user:param},password={password:param},{:identifier}={:param}&gt;]" />
+      <url-template name="In-memory" template="jdbc:h2:mem:{database::default}?[;&lt;;,{:identifier}={:param}&gt;]" />
+      <url-template name="Embedded" template="jdbc:h2:!(tcp://)[file:]{path}[;&lt;;,user={user:param},password={password:param},{:identifier}={:param}&gt;]" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
     </driver>
   </component>
 </application>
